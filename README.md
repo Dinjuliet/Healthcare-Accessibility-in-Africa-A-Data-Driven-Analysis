@@ -1,10 +1,9 @@
 # Healthcare-Accessibility-in-Africa-A-Data-Driven-Analysis
-# Project Overview
+# PROJECT OVERVIEW
 This project explores healthcare accessibility in Africa using Power BI. The goal is to analyze disparities between rural and urban healthcare facilities, evaluate funding efficiency, and provide data-driven recommendations to improve healthcare service delivery.
 
-# Dataset Sourse & Description
+# DATASET SOURCE & DESCRIPTION
 
-Link to Dataset: [Download Here](
 The dataset consists of healthcare facility data categorized into:
 
 📍 Rural vs. Urban Healthcare Disparities – Facility distribution, number of doctors & nurses, and patient accessibility.
@@ -17,10 +16,10 @@ The dataset consists of healthcare facility data categorized into:
 
 📈 Patient Satisfaction & Healthcare Outcomes – Service quality based on patient feedback & emergency response efficiency.
 
-# Dashboard
+# DASHBOARD
 [Overview of Healthcare Accessibility in Africa] (![Screenshot 2025-04-01 202517](https://github.com/user-attachments/assets/2c08c7f9-ae03-4258-9fed-d070ba29e304)(![Screenshot 2025-04-01 202608](https://github.com/user-attachments/assets/f3f5a6b2-3fa2-4575-a590-5a0d0fb13de8)
 
-# Key Findings
+# KEY FINDINGS
 
 🏥 Healthcare Facility Distribution
 
@@ -56,7 +55,7 @@ The dataset consists of healthcare facility data categorized into:
 
 ➡️ Insight: Improving rural infrastructure is key to ensuring equitable healthcare access.
 
-# Actionable Recommendations
+# ACTIONABLE RECOMMENDATIONS
 
 ✅ Improve Funding Allocation – Target funding towards ambulance services, road networks, and workforce training.
 
@@ -66,12 +65,15 @@ The dataset consists of healthcare facility data categorized into:
 
 ✅ Enhance Emergency Response – Invest in more ambulances & faster transport networks.
 
-# 🛠 Technologies Used
+# 🛠 TOOLS USDED
+
 📊 Power BI – Data visualization & insights generation.
+
 🗄️ Excel/CSV – Dataset preprocessing.
 
-## 🔗 Connect With Me
-👤 Dingwoke Juliet Obianuju
-📧 Email: dinjulieto@gmail.com
-🔗 LinkedIn:
+## 🔗 CONNECT WITH ME
+
+ Email: dinjulieto@gmail.com
+
+ LinkedIn: https://www.linkedin.com/in/juliet-obianuju-dingwoke
 
