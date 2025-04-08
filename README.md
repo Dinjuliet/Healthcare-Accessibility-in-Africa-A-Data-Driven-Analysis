@@ -4,13 +4,19 @@ This project explores healthcare accessibility in Africa using Power BI. The goa
 # Dataset Sourse & Description
 Link to Dataset: [Download Here](
 The dataset consists of healthcare facility data categorized into:
+
 📍 Rural vs. Urban Healthcare Disparities – Facility distribution, number of doctors & nurses, and patient accessibility.
+
 👩‍⚕️ Healthcare Workforce Availability – Number of doctors & nurses per facility across different regions.
+
 🏥 Patient Accessibility & Utilization – Patient visits, distance to facilities, and emergency response times.
+
 💰 Funding & Resource Allocation – Funding per facility, electricity & internet access.
+
 📈 Patient Satisfaction & Healthcare Outcomes – Service quality based on patient feedback & emergency response efficiency.
 
 # Key Findings
+
 🏥 Healthcare Facility Distribution
 ✔️ Rural areas: 1,873 facilities (647 clinics, 642 health centers, 584 hospitals).
 ✔️ Urban areas: 127 facilities (49 clinics, 37 health centers, 41 hospitals).
