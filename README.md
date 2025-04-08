@@ -2,7 +2,7 @@
 # PROJECT OVERVIEW
 This project explores healthcare accessibility in Africa using Power BI. The goal is to analyze disparities between rural and urban healthcare facilities, evaluate funding efficiency, and provide data-driven recommendations to improve healthcare service delivery.
 
-# DATASET SOURCE & DESCRIPTION
+# DATASET DETAILS
 
 The dataset consists of healthcare facility data categorized into:
 
@@ -65,11 +65,11 @@ The dataset consists of healthcare facility data categorized into:
 
 ✅ Enhance Emergency Response – Invest in more ambulances & faster transport networks.
 
-# 🛠 TOOLS USDED
+# 🛠 TECHNOLOGIES USDED
 
 📊 Power BI – Data visualization & insights generation.
 
-🗄️ Excel/CSV – Dataset preprocessing.
+🗄️ Excel – Dataset preprocessing.
 
 ## 🔗 CONNECT WITH ME
 
