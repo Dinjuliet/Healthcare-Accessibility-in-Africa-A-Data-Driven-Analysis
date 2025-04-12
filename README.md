@@ -3,6 +3,7 @@
 This project explores healthcare accessibility in Africa using Power BI. The goal is to analyze disparities between rural and urban healthcare facilities, evaluate funding efficiency, and provide data-driven recommendations to improve healthcare service delivery.
 
 # DATASET DETAILS
+[Download Here](https://docs.google.com/spreadsheets/d/1lCAIol38C3kGx_sgtbuTC4Uei97pU2Tz/edit?usp=drive_link&ouid=103521846647106371367&rtpof=true&sd=true)
 
 The dataset consists of healthcare facility data categorized into:
 
