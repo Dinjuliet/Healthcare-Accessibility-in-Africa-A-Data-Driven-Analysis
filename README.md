@@ -1,6 +1,19 @@
 # Healthcare-Accessibility-in-Africa-A-Data-Driven-Analysis
+
 # PROJECT OVERVIEW
 This project explores healthcare accessibility in Africa using Power BI. The goal is to analyze disparities between rural and urban healthcare facilities, evaluate funding efficiency, and provide data-driven recommendations to improve healthcare service delivery.
+
+# KEY BUSSINESS QUESTIONS
+
+- How does the distribution of healthcare facilities compare between rural and urban regions?
+
+- Are urban healthcare facilities receiving more funding than rural ones?
+
+- Are healthcare facilities with higher funding more likely to have shorter emergency response times?
+
+- Which facility types (hospitals, clinics, health centers) show the highest efficiency in terms of funding per patient visit?
+
+
 
 # DATASET DETAILS
 [Download Here](https://docs.google.com/spreadsheets/d/1lCAIol38C3kGx_sgtbuTC4Uei97pU2Tz/edit?usp=drive_link&ouid=103521846647106371367&rtpof=true&sd=true)
@@ -71,6 +84,10 @@ The dataset consists of healthcare facility data categorized into:
 📊 Power BI – Data visualization & insights generation.
 
 🗄️ Excel – Dataset preprocessing.
+
+# OTHERS
+
+[LinkedIn Post](https://www.linkedin.com/posts/juliet-obianuju-dingwoke_datafam-dataanalytics-powerbi-activity-7314217367767605249-E555?utm_source=share&utm_medium=member_desktop&rcm=ACoAADt2sYEB_u54k7kCyt5xLX2OS6Iqo3GlcSg)
 
 ## 🔗 CONNECT WITH ME
 
