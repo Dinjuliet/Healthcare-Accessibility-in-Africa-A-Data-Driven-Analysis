@@ -35,7 +35,7 @@ The dataset consists of healthcare facility data categorized into:
 
 # KEY FINDINGS
 
-🏥 Healthcare Facility Distribution
+- 🏥 Healthcare Facility Distribution
 
 ✔️ Rural areas: 1,873 facilities (647 clinics, 642 health centers, 584 hospitals).
 
@@ -43,13 +43,13 @@ The dataset consists of healthcare facility data categorized into:
 
 ➡️ Insight: Rural regions have more facilities, but their vast geography and infrastructure challenges make access difficult.
 
-💰 Funding Disparities
+- 💰 Funding Disparities
 
 ✔️ Rural areas receive $199M, while urban areas receive only $14M.
 
 ➡️ Insight: Despite higher funding in rural areas, challenges like infrastructure gaps and workforce shortages limit service quality.
 
-🚑 Emergency Response Time
+- 🚑 Emergency Response Time
 
 ✔️ Rural: 32 minutes
 
@@ -57,13 +57,13 @@ The dataset consists of healthcare facility data categorized into:
 
 ➡️ Insight: Funding alone doesn’t improve emergency response times. Factors like ambulance availability, road conditions, and facility locations play a critical role.
 
-👨‍⚕️ Workforce Challenges
+- 👨‍⚕️ Workforce Challenges
 
 ✔️ Rural regions have more healthcare staff, but urban areas still struggle with lower doctor-to-patient ratios.
 
 ➡️ Insight: Urban areas need better workforce distribution to balance patient demand.
 
-⚡ Infrastructure & Technology
+- ⚡ Infrastructure & Technology
 
 ✔️ Urban facilities have better electricity & internet access, enabling better telemedicine & digital healthcare solutions.
 
